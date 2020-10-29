@@ -64,6 +64,18 @@
   background-color: lightblue;
 }
 
+.bg-whi{
+  background-color: white;
+}
+
+.txt-l{
+  text-align: left;
+}
+
+.bg-grey{
+  background-color: rgb(243, 245, 249);
+}
+
 
 /* sezione navbar */
 .ocean{
@@ -102,8 +114,9 @@
 
 #jumbotron h1{
   font-size: 50px;
+  margin-right:
 }
-#jumbotron p{
+.title p{
   font-size: 25px;
   margin-bottom: 50px;
   line-height: 30px;
@@ -127,7 +140,40 @@
   width: 90%;
 }
 
-.icon h2{
-  margin-top: 25px;
-  margin-bottom: 15px;
+.info h2{
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.info h3{
+  padding-bottom: 10px;
+  color: blue;
+}
+
+.info input, button{
+  margin-bottom: 5px;
+}
+
+.info p{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.google{
+  width: 40px;
+}
+
+.info button, input{
+  border-radius: 5px;
+}
+
+.info p{
+  color: blue;
+}
+
+#partners .container h4{
+  text-transform: uppercase;
+  color: grey;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
