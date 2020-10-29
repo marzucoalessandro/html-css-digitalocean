@@ -1,1 +1,38 @@
+/* utility class */
+.pdtb-20{
+  padding-top: 20px;
+  padding-bottom: 20px;
 
+}
+.pdlr-5{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.pdtb-25{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.mrlr{
+
+}
+
+
+
+
+/* sezione navbar */
+.ocean{
+  width: 100%;
+}
+
+.nav-centre li{
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.nav-centre li a{
+  text-decoration: none;
+  color: black;
+
+}
