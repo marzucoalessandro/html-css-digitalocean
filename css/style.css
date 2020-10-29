@@ -13,6 +13,10 @@
   padding-right: 5px;
 }
 
+.pdl-10{
+  padding-left:10px;
+}
+
 .pdtb-25{
   padding-top: 25px;
   padding-bottom: 25px;
@@ -38,6 +42,10 @@
   margin-top: 50px;
 }
 
+.mrtop-30{
+  margin-top: 30px;
+}
+
 
 
 .pdr-40{
@@ -50,6 +58,10 @@
 
 .white{
   color: white;
+}
+
+.bg-cel{
+  background-color: lightblue;
 }
 
 
@@ -99,5 +111,23 @@
 
 .info{
   background-color: white;
-  width: 80%;
+  width: 90%;
+  margin-left: 60px;
+  border-radius: 10px;
+  line-height: 30px;
+}
+
+.info input{
+  padding: 5px;
+  width: 90%;
+}
+
+.info button{
+  padding: 5px;
+  width: 90%;
+}
+
+.icon h2{
+  margin-top: 25px;
+  margin-bottom: 15px;
 }
