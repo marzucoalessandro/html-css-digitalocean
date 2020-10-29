@@ -1,4 +1,8 @@
 /* utility class */
+.bd{
+  border: 1px solid black;
+}
+
 .pdtb-20{
   padding-top: 20px;
   padding-bottom: 20px;
@@ -90,4 +94,10 @@
 #jumbotron p{
   font-size: 25px;
   margin-bottom: 50px;
+  line-height: 30px;
+}
+
+.info{
+  background-color: white;
+  width: 80%;
 }
