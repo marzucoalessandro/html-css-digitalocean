@@ -13,10 +13,22 @@
   padding-top: 25px;
   padding-bottom: 25px;
 }
-.mrlr{
-
+.txt-c{
+  text-align: center;
 }
 
+.mr-lr-10{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.lh-30{
+  line-height: 20px;
+}
+
+.txt-r{
+  text-align: right;
+}
 
 
 
@@ -25,14 +37,22 @@
   width: 100%;
 }
 
-.nav-centre li{
+.nav-centre li, .nav-right li {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
+  font-size: 20px;
 }
 
-.nav-centre li a{
+.nav-centre li a, .nav-right li a{
   text-decoration: none;
   color: black;
+}
 
+.nav-right ul button{
+  padding: 10px;
+  background-color: white;
+  color: lightblue;
+  border-radius: 10px;
+  border: 1px solid lightblue;
 }
