@@ -118,6 +118,13 @@ body{
 .toggle{
   color: grey;
   display: none;
+  height: 40px;
+    position: relative;
+    padding: 10px 20px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 5%;
+    border: 2px solid black;
 }
 
 /* sezione jumbotron */
