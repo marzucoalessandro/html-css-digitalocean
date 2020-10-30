@@ -264,11 +264,26 @@ body{
 
   .second-sec p{
     padding-top: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
     font-size: 25px;
     color: #5b6987;
+}
 
-  }
+.screen{
+  width: 100%;
+}
+
+.angle span i{
+  font-size: 60px;
+  color: grey;
+
+}
+.angle2 span i{
+  font-size: 60px;
+  color: #031b4e;
+
+}
+
 
 
 
