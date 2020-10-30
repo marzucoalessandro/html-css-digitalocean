@@ -273,15 +273,21 @@ body{
   width: 100%;
 }
 
+
+.angle, .angle2{
+  line-height: 500px;
+
+}
+
 .angle span i{
   font-size: 60px;
   color: grey;
-
+  padding-right: 20px;
 }
 .angle2 span i{
   font-size: 60px;
   color: #031b4e;
-
+  padding-left: 20px;
 }
 
 
