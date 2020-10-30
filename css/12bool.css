@@ -1,6 +1,6 @@
-  .debug [class*="col-"] {
-   /* height: 100px; */
-  /* background-color: pink; */
+  /* .debug [class*="col-"] {
+    height: 100px;
+   background-color: pink;
   border: 1px solid black;
 }
 .debug [class*="col-"] > .row > [class*="col-"] {
@@ -9,7 +9,9 @@
 .debug [class*="col-"] > .row {
   padding: 5px;
   height: 100%;
-}
+} */
+
+
 
 *{
   margin: 0;
@@ -18,13 +20,11 @@
 }
 
 .container {
-  width: 1250px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
-.row {
-  width: 100%;
-}
+
 .row::after {
   content: "";
   display: table;

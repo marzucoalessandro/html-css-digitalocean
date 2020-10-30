@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/12bool.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400&display=swap" rel="stylesheet">
   </head>
 
   <body>
@@ -30,7 +31,7 @@
               </div>
             </div>
 
-            <div class="col-lg-5 col-offset-lg-1 ">
+            <div class="col-lg-5 col-offset-lg-1">
               <!-- all'interno poniamo 4 link con relative icon di fontawesome -->
               <div class="nav-centre txt-c pdtb-25">
                 <ul>
@@ -50,11 +51,18 @@
                     <li><a href="">docs</a></li>
                     <li><a href="">support</a><i class="fas fa-angle-down"></i></li>
                     <li><a href="">login</a></li>
+                    <li><a class="button" href="">sign up</a></li>
 
-                    <button type="button" name="sigup">sign up</button>
+
 
                   </ul>
 
+
+              </div>
+
+              <div class="toggle">
+
+                <span><i class="fas fa-bars"></i></span>
 
               </div>
             </div>
@@ -70,12 +78,12 @@
 
           <div class="row">
 
-            <div class="col-lg-6 white pdr-40  pdl-10 title">
+            <div class="col-lg-6 col-md-12 col-sm-12 white pdr-40  pdl-10 title">
               <h1 class="mrtop-50 mrbt-20">The simplest cloud platform for developers & teams</h1>
               <p class="">Deploy, manage, and scale cloud applications faster and more efficently on DigitalOcean. We make managing infrastructure easy for teams and businesses, wheter you're running one virtual machine or ten thousand.</p>
             </div>
 
-            <div class="col-lg-6 ">
+            <div class="col-lg-6 col-md-12 col-sm-12">
               <!-- un contenitore con all'interno h2+form+p -->
 
               <div class="info txt-c mrtop-50">
@@ -95,7 +103,7 @@
 
                 </form>
 
-                <p>By signing up you agree with the <a class="link1"href="">terms of service</a> </p>
+                <p>By signing up you agree with the <a class="link1" href="">terms of service</a> </p>
 
               </div>
 
@@ -113,35 +121,43 @@
         <!-- all'interno il nostro frmw  -->
         <div class="container">
 
-          <div class="row bg-grey bd">
+          <div class="row">
             <!-- ci sono nella vers. desktop 6 colonne -->
 
             <h4 class="txt-c">innovative businesses trust digital ocean</h4>
 
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/docker.svg" alt="">
             </div>
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/gitlab.svg" alt="">
             </div>
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/slack.svg" alt="">
             </div>
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/hashi.svg" alt="">
             </div>
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/wework.svg" alt="">
             </div>
 
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-sm-6">
               <img src="img/splunk.svg" alt="">
             </div>
+
+            <div class="customer">
+
+              <a href="#">view customers stories</a>
+              <i class="fas fa-angle-right"></i>
+            </div>
+
+
 
 
           </div>
@@ -149,9 +165,54 @@
 
 
       </div>
-      <!-- /sez. parner -->
+      <!-- /sez. partner -->
 
     </header>
+
+    <!-- main della pagina -->
+    <main>
+      <!-- ci sono 5 sezioni nel main -->
+
+      <section>
+        <div class="container">
+          <div class="row first-row txt-c pdbt-40">
+            <h2>deploy and scale seamlessy</h2>
+            <p>Our optimized configuration process saves yor team time when running and scaling distributed applications, AI and machine learning workloads,hosted service,client website,or CI/CD enviroments.</p>
+          </div>
+          <div class="col-lg-4">
+            <div class="list-item">
+              <ul>
+                <li>deploy</li>
+                <li>manage</li>
+                <li>secure</li>
+                <li>scale</li>
+                <li>monitor</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="col-lg-6 slide">
+              <img src="img/timone.svg" alt="">
+              <h4>cluster deployments</h4>
+              <p>provision multiple Droplets (virtual machine) in seconds with our control panel,CLL or directly against our API</p>
+
+
+            </div>
+
+            <div class="col-lg-6">
+
+            </div>
+
+
+          </div>
+          <div class="col-lg-4">
+
+          </div>
+        </div>
+
+      </section>
+    </main>
 
   </body>
 
