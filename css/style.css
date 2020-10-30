@@ -275,7 +275,7 @@ body{
 
 
 .angle, .angle2{
-  line-height: 500px;
+  line-height: 400px;
 
 }
 
@@ -290,7 +290,12 @@ body{
   padding-left: 20px;
 }
 
-
+#ext-p{
+  font-size: 15px;
+  color: #031b4e;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
 
 
 
