@@ -231,7 +231,6 @@ body{
 
 .first-row p {
   padding-bottom: 10px;
-  color: #031b4e;
   font-size: 25px;
   color: #5b6987;
 }
@@ -256,6 +255,23 @@ body{
   color: #5b6987;
   padding-right: 60px;
 }
+
+.second-sec h2{
+  padding-top: 50px;
+  color: #031b4e;
+  font-size: 40px;
+  }
+
+  .second-sec p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: #5b6987;
+
+  }
+
+
+
 
 
 /* *****media query***** */
