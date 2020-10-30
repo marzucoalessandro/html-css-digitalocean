@@ -6,7 +6,9 @@ body{
 .bd{
   border: 1px solid black;
 }
-
+ .pdbt-20{
+   padding-bottom: 20px;
+ }
 .pdbt-40{
   padding-bottom: 40px;
 }
@@ -224,7 +226,7 @@ body{
   padding-top: 25px;
   padding-bottom: 10px;
   color: #031b4e;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .first-row p {
@@ -244,6 +246,15 @@ body{
 
 .slide img,h4,p{
   padding-bottom: 15px;
+}
+
+.slide h4{
+  color: #031b4e;
+}
+
+.slide p{
+  color: #5b6987;
+  padding-right: 60px;
 }
 
 
