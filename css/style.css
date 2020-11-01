@@ -380,11 +380,12 @@ body{
   margin-right: 20px;
 }
 
+
 .sect-five h2{
   padding-top: 50px;
   color: #031b4e;
   font-size: 40px;
-  padding-bottom: 60px;
+  padding-bottom: 50px;
 }
 
 .rockerbox{
@@ -409,9 +410,6 @@ body{
   display: block;
 }
 
-.pallini{
-  padding-bottom: 30px;
-}
 
 .angle-l{
   color: grey;
@@ -430,6 +428,39 @@ body{
   text-align: left;
   padding-left: 10px;
 }
+
+.section-six h2{
+  color: white;
+  font-size: 50px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.section-six{
+  background-color: #031b4e;
+  padding-bottom: 50px;
+  }
+
+.section-six button{
+  color: #0069ff;
+  font-size: 25px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.footer-site{
+  padding: 50px;
+  background-color: #010e28;
+}
+.footer-site img{
+  padding-bottom: 10px;
+}
+
+.footer-site p{
+  color: #FFFFFF80;
+}
+
+
 
 
 
