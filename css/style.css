@@ -105,6 +105,12 @@ body{
 
 
 /* sezione navbar */
+#navbar{
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
 .ocean{
   width: 100%;
 }
@@ -140,6 +146,14 @@ body{
 
 #navbar ul li{
   font-size: 20px;
+}
+
+.nav-right a:hover{
+  color: #0069ff;
+}
+
+.nav-centre a:hover{
+  color: #0069ff;
 }
 
 .toggle{
@@ -394,6 +408,10 @@ body{
   margin-right: 20px;
 }
 
+.test a:hover{
+  color: blue;
+}
+
 
 .sect-five h2{
   padding-top: 50px;
@@ -467,6 +485,10 @@ body{
   border-radius: 10px;
 }
 
+.section-six button:hover{
+  background-color: lightgrey;
+}
+
 .footer-site{
   padding-top: 70px;
   padding-bottom: 60px;
@@ -483,6 +505,11 @@ body{
 .footer-site i{
   color: #FFFFFF80;
   padding: 0 5px;
+  font-size: 25px;
+}
+
+.footer-site i:hover{
+  color: white;
 }
 
 .footer-site h4{
@@ -500,6 +527,10 @@ body{
 
 .footer-site ul li{
   list-style-type: none;
+}
+
+.footer-site ul li a:hover{
+  color: white;
 }
 
 
