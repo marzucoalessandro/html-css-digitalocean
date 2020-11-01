@@ -449,7 +449,7 @@ body{
 }
 
 .footer-site{
-  padding: 50px;
+  padding-top: 70px;
   background-color: #010e28;
 }
 .footer-site img{
@@ -458,6 +458,27 @@ body{
 
 .footer-site p{
   color: #FFFFFF80;
+}
+
+.footer-site i{
+  color: #FFFFFF80;
+  padding: 0 5px;
+}
+
+.footer-site h4{
+  color: white;
+  font-size: 20px;
+}
+
+.footer-site ul li a{
+  color: #FFFFFF80;
+  line-height: 30px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.footer-site ul li{
+  list-style-type: none;
 }
 
 
