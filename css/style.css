@@ -357,6 +357,7 @@ body{
 
 .sect-four a, i{
   color: #00d7d2;
+  text-decoration: none;
 }
 .code, .city, .test{
   padding-bottom: 10px;
@@ -450,6 +451,7 @@ body{
 
 .footer-site{
   padding-top: 70px;
+  padding-bottom: 60px;
   background-color: #010e28;
 }
 .footer-site img{
@@ -473,8 +475,9 @@ body{
 .footer-site ul li a{
   color: #FFFFFF80;
   line-height: 30px;
-  font-size: 20px;
+  font-size: 18px;
   text-transform: capitalize;
+  text-decoration: none;
 }
 
 .footer-site ul li{
