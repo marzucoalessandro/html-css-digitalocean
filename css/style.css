@@ -389,20 +389,51 @@ body{
 
 .rockerbox{
   padding-top: 40px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   padding-left: 5px;
   padding-right: 5px;
   background-color: white;
+  margin-bottom: 30px;
 }
 
 .rockerbox p{
   color: #5b6987;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .rockerbox span{
   color: #031b4e;
 }
+.founder{
+  padding-bottom: 20px;
+  display: block;
+}
+
+.pallini{
+  padding-bottom: 30px;
+}
+
+.angle-l{
+  color: grey;
+  height: 300px;
+  line-height: 300px;
+  font-size: 40px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.angle-r{
+  color: #031b4e
+  height: 300px;
+  line-height: 300px;
+  font-size: 40px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+
+
+
 
 
 
