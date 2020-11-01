@@ -87,6 +87,22 @@ body{
   color: #031b4e;
 }
 
+.celeste{
+  color: #0069ff;
+}
+.bg-celeste{
+  background-color:  #0069ff;
+  border-radius: 100%;
+}
+
+.circle i{
+  font-size: 12px;
+}
+
+.circle{
+  padding-bottom: 50px;
+}
+
 
 /* sezione navbar */
 .ocean{
@@ -296,6 +312,76 @@ body{
   font-weight: bold;
   padding-bottom: 10px;
 }
+
+.third-sec h2{
+  padding-top: 50px;
+  color: #031b4e;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+.third-sec h4{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #031b4e;
+}
+
+.third-sec p{
+  padding-right: 15px;
+  color: #5b6987;
+}
+
+.third-sec a, i{
+  color: #0069ff;
+}
+.third-sec{
+  padding-bottom: 50px;
+}
+
+.sect-four{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #031b4e;
+}
+
+.sect-four h2{
+  color: white;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+.sect-four span{
+  color: white;
+  margin-bottom: 15px;
+}
+
+.sect-four a, i{
+  color: #00d7d2;
+}
+.code, .city, .test{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid white;
+}
+
+.city span{
+  padding-left: 25px;
+}
+
+.code span{
+  padding-left: 10px;
+}
+.test a{
+  padding-left: 15px;
+}
+
+
+
+.sect-four .col-1{
+  width: 48%;
+  margin-right: 20px;
+}
+
 
 
 
