@@ -589,9 +589,24 @@ body{
     padding-bottom: 30px;
   }
 
-  .angle span {
+  .drop{
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+
+  .angle, .angle2{
     display: none;
   }
+
+  .mega-img{
+    padding: 30px;
+  }
+
+  .features{
+    padding-left: 10px;
+  }
+
+
 
   .footer-logo {
     padding-bottom: 30px;
