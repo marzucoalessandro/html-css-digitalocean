@@ -574,6 +574,10 @@ body{
   padding-right: 50px;
 }
 
+.community, .support{
+  padding-top: 30px;
+}
+
 }
 
 @media screen and (max-width: 768px) {
@@ -617,5 +621,9 @@ body{
   .footer-logo {
     padding-bottom: 30px;
   }
+
+.community, .support, .products, .company{
+  padding-top: 20px;
+}
 
 }
