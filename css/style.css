@@ -178,7 +178,6 @@ body{
 
 #jumbotron h1{
   font-size: 50px;
-  margin-right:
 }
 .title p{
   font-size: 25px;
@@ -225,7 +224,8 @@ body{
 }
 
 .google{
-  width: 40px;
+  width: 25px;
+  float: left;
 }
 
 .info button, input{
@@ -614,9 +614,8 @@ body{
     padding: 30px;
   }
 
-
-
   .footer-logo {
     padding-bottom: 30px;
   }
+
 }
