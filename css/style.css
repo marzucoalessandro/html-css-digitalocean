@@ -606,6 +606,14 @@ body{
     padding-left: 10px;
   }
 
+  .angle-l, .angle-r{
+    display: none;
+  }
+
+  .rick{
+    padding: 30px;
+  }
+
 
 
   .footer-logo {
